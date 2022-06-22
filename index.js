@@ -1,0 +1,1 @@
+alert("Name: Aslam Dhikrullahi\nHeight: 1.95m\nCountry: Nigeria")
